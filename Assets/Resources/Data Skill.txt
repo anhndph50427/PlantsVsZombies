@@ -1,0 +1,4 @@
+id	Tên	hiệu ứng	chỉ số
+1	Chủ nhà	đẩy lùi	 0.2 ô/bậc
+2	Thảm cỏ	làm chậm	giảm 1%/ bậc
+3	máy cắt cỏ	chạy chậm	0.5s/bậc

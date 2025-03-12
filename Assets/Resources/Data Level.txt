@@ -1,0 +1,7 @@
+id	level
+1	màn chơi 1
+2	màn chơi 2
+3	màn chơi 3
+4	màn chơi 4
+5	màn chơi 5
+6	màn chơi 6

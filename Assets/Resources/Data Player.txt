@@ -1,0 +1,4 @@
+id người chơi	Tên người chơi	Vàng 	Tiến trình	Số cây mở khóa	Cấp độ	HighScore	id kỹ năg	cấp độ kỹ năng	Setting nguoi chơi
+1	nhóm 4	9999	Tiến độ của 	??	id màn chơi đã đạt	???	1	1	
+			người chơi ở				2	4	
+			mỗi chế độ				3	2

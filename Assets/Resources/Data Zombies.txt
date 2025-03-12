@@ -1,0 +1,6 @@
+id	Zombies	ATK 	DEF	HP	Speed	Tốc đánh / s	Description
+1	Zombie cơ bản	100	0	200	1	1	thông thường, di chuyển chậm và cắn thực vật.
+2	Conehead Zombie (Zombie đội nón)	100	0	560	1	1	đội mũ nón để bảo vệ đầu, khó bị tiêu diệt hơn so với zombie cơ bản.
+3	Flag Zombie(zombie cầm cờ)	100	0	400	1.2	1	cầm cờ, báo hiệu một làn sóng lớn sắp đến.
+4	Pole Vaulting Zombie (Zombie nhảy xào)	100	0	340	1.2	1	sử dụng cây gậy để nhảy qua thực vật phía trước, sau đó trở thành zombie cơ bản.
+5	Buckethead Zombie (Zombie đội xô)	100	0	600	1.2	1	đội mũ bảo hộ đầy đủ (bucket), rất khó bị tiêu diệt và cần nhiều sát thương để hạ gục.

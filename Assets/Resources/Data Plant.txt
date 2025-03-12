@@ -1,0 +1,8 @@
+id	Plants	ATK	HP	Price	Tốc đánh / s	Description	Level mở khóa
+1	SunFlower	0	300	50	0	Tạo ra mặt trời sau 5s để cung cấp tài nguyên	1
+2	Peashooter	20	300	100	1	bắn đậu	1
+3	Snow Pea	20	300	175	1	Bắn đậu làm chậm zombie.	6
+4	CherryBomb	1800	300	150	0	Nổ để gây sát thương lớn lên tất cả zombie trong khu vực 3x3.	2
+5	Wall-nut	0	4000	50	0	Chặn đường đi của zombie bằng lớp vỏ cứng.	3
+6	Potato Mine	1800	300	25	0	Nổ để tiêu diệt zombie sau khi kích hoạt.	5
+7	Chomper	150	300	150	1	Nuốt zombie trong một lần, nhưng cần thời gian để tiêu hóa.	8

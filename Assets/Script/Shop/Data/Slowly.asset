@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 238850f535d847d46b78dcfd12b83649, type: 3}
+  m_Name: Slowly
+  m_EditorClassIdentifier: 
+  nameSkill: Slowly
+  typeSkill: 1
+  indexLevel: 0
+  infor:
+  - coolDown: 40
+    TimeStopMove: 3
+    UnlockCost: 100
+  - coolDown: 35
+    TimeStopMove: 5
+    UnlockCost: 200
+  - coolDown: 25
+    TimeStopMove: 10
+    UnlockCost: 300
